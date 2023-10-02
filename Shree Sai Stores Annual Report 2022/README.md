@@ -12,17 +12,20 @@ Unearthing Valuable Insights to inform data-driven strategies.
 
 ## Project Highlights
 
-### Insight 1: March - The Pinnacle Month
-March witnessed the highest sales volume.
+## Sales Analysis
 
-### Insight 2: Demographic Analysis
-Women constituted 64% of the customer base, surpassing male customers at 36%.
+- **Peak Sales Month**: March recorded the highest sales, with more than 2400 orders and revenue exceeding 1.9 million USD.
 
-### Insight 3: The Adult Influence
-A significant portion of purchases was made by adults, underscoring their role in driving sales.
+- **Gender Purchasing Patterns**: Women account for the majority of our purchases, constituting 64% of total sales, while men account for the remaining 36%.
 
-### Insight 4: Regional Dynamics
-Top-performing states: Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu.
+- **Regional Sales**: Our sales are highest in the following regions:
+  1. Maharashtra: Over 1 million USD in sales.
+  2. Karnataka
+  3. Uttar Pradesh
+  4. Telangana
+  5. Tamil Nadu
+
+- **Adult Consumer Base**: The largest segment of our customer base falls within the adult age group (25-60 years). Adult women make up 31.97% of total sales, while adult males account for 18.12%.
 
 ### Insight 5: Commitment to Customer Satisfaction
 A commendable record of successful order deliveries underscores the store's dedication to customer satisfaction.
